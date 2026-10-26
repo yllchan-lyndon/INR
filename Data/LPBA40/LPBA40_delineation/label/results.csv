@@ -1,0 +1,487 @@
+SUBJECT;LABEL;DICE;HDRFDST95;VOLSMTY
+S02.delineation.structure.label.nii.gz;L angular gyrus;0.41012441012441014;13.341664064126334;0.8882453882453882
+S02.delineation.structure.label.nii.gz;L caudate;0.5176648976497347;5.0990195135927845;0.9586050037907505
+S02.delineation.structure.label.nii.gz;L cingulate gyrus;0.47423860003365303;7.0710678118654755;0.9970048796903921
+S02.delineation.structure.label.nii.gz;L cuneus;0.1767515923566879;13.96424004376894;0.7004777070063695
+S02.delineation.structure.label.nii.gz;L fusiform gyrus;0.6726665122588756;10.0;0.8666247559805447
+S02.delineation.structure.label.nii.gz;L gyrus rectus;0.596968759665945;4.123105625617661;0.9650479430869162
+S02.delineation.structure.label.nii.gz;L hippocampus;0.7030589405620492;3.0;0.8836110420293459
+S02.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.6784959262690325;4.898979485566356;0.9659136796598494
+S02.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.7587263917729655;4.47213595499958;0.9428458419855631
+S02.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.6286249331193151;10.04987562112089;0.8605136436597111
+S02.delineation.structure.label.nii.gz;L insular cortex;0.6657604591451443;3.605551275463989;0.9957710315662287
+S02.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.6160849772382397;4.242640687119285;0.9819802731411229
+S02.delineation.structure.label.nii.gz;L lingual gyrus;0.5957876414273281;6.48074069840786;0.6850478677110531
+S02.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6666881741243776;7.14142842854285;0.8436945510855889
+S02.delineation.structure.label.nii.gz;L middle occipital gyrus;0.6472527762390863;5.916079783099616;0.7256996650048799
+S02.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.5699544431637301;9.539392014169456;0.852516603545749
+S02.delineation.structure.label.nii.gz;L middle temporal gyrus;0.6280583275169305;7.0710678118654755;0.8426930259757409
+S02.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.6115873893805309;10.295630140987;0.9293418141592921
+S02.delineation.structure.label.nii.gz;L postcentral gyrus;0.5193697478991597;8.54400374531753;0.9363025210084034
+S02.delineation.structure.label.nii.gz;L precentral gyrus;0.599117967265145;5.916079783099616;0.883730371081136
+S02.delineation.structure.label.nii.gz;L precuneus;0.3180825724493847;10.0;0.9004565303691942
+S02.delineation.structure.label.nii.gz;L putamen;0.6578853684585262;3.1622776601683795;0.8567699062537083
+S02.delineation.structure.label.nii.gz;L superior frontal gyrus;0.6621628564089391;7.0;0.9270999229386078
+S02.delineation.structure.label.nii.gz;L superior occipital gyrus;0.49847206942916517;8.06225774829855;0.9908324165749909
+S02.delineation.structure.label.nii.gz;L superior parietal gyrus;0.5886709905207813;10.0;0.8254211920021491
+S02.delineation.structure.label.nii.gz;L superior temporal gyrus;0.6182670579108908;8.306623862918075;0.9150392930621606
+S02.delineation.structure.label.nii.gz;L supramarginal gyrus;0.4641360105525429;12.206555615733702;0.9956324197567052
+S02.delineation.structure.label.nii.gz;R angular gyrus;0.3889270976616231;10.246950765959598;0.9191884456671252
+S02.delineation.structure.label.nii.gz;R caudate;0.4005831966466193;7.874007874011811;0.8675050118461819
+S02.delineation.structure.label.nii.gz;R cingulate gyrus;0.5219473264166001;6.324555320336759;0.9285351519988392
+S02.delineation.structure.label.nii.gz;R cuneus;0.2719446004117537;11.313708498984761;0.8036683511136066
+S02.delineation.structure.label.nii.gz;R fusiform gyrus;0.6736113722688127;6.0;0.9579933060057915
+S02.delineation.structure.label.nii.gz;R gyrus rectus;0.536440991490936;7.14142842854285;0.9724996917005796
+S02.delineation.structure.label.nii.gz;R hippocampus;0.6773252125364801;4.123105625617661;0.8339043268620734
+S02.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.675966359372473;7.874007874011811;0.8433608280769853
+S02.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.46558879474321285;11.224972160321824;0.812035275808404
+S02.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.6310060796234556;9.219544457292887;0.9224848009413611
+S02.delineation.structure.label.nii.gz;R insular cortex;0.6380675282495433;4.242640687119285;0.9900534542255903
+S02.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.46973365617433416;6.164414002968976;0.8564510549982705
+S02.delineation.structure.label.nii.gz;R lingual gyrus;0.3549373040752351;10.63014581273465;0.6127742946708463
+S02.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6601292623133497;7.0;0.8788139280673268
+S02.delineation.structure.label.nii.gz;R middle occipital gyrus;0.2793492276880024;9.643650760992955;0.8053444538944827
+S02.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.5223245543167986;10.0;0.9657995368126245
+S02.delineation.structure.label.nii.gz;R middle temporal gyrus;0.6331467837914423;7.874007874011811;0.9309648625672995
+S02.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.6599375788564977;5.744562646538029;0.9074971777674481
+S02.delineation.structure.label.nii.gz;R postcentral gyrus;0.4632286301642388;8.06225774829855;0.962001812595327
+S02.delineation.structure.label.nii.gz;R precentral gyrus;0.6039709303374029;7.0;0.9300849367933205
+S02.delineation.structure.label.nii.gz;R precuneus;0.45269057076010666;6.708203932499369;0.9161543065455139
+S02.delineation.structure.label.nii.gz;R putamen;0.6709109850677162;3.0;0.8500983910174789
+S02.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6283582877351022;7.874007874011811;0.9071731442546229
+S02.delineation.structure.label.nii.gz;R superior occipital gyrus;0.26402510788544525;9.433981132056603;0.7804040800313848
+S02.delineation.structure.label.nii.gz;R superior parietal gyrus;0.5847907760072548;7.681145747868608;0.8522569540836156
+S02.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6877779943647995;5.830951894845301;0.8862150236572097
+S02.delineation.structure.label.nii.gz;R supramarginal gyrus;0.48775169937155316;13.45362404707371;0.9475439271514685
+S03.delineation.structure.label.nii.gz;L angular gyrus;0.6483524155263892;5.744562646538029;0.8672856743926278
+S03.delineation.structure.label.nii.gz;L caudate;0.6651597347799879;3.0;0.9650391802290537
+S03.delineation.structure.label.nii.gz;L cingulate gyrus;0.570820802464608;6.708203932499369;0.906917039536419
+S03.delineation.structure.label.nii.gz;L cuneus;0.11943410275502606;13.2664991614216;0.7846612062546537
+S03.delineation.structure.label.nii.gz;L fusiform gyrus;0.6032144650929181;5.656854249492381;0.9037334672693789
+S03.delineation.structure.label.nii.gz;L gyrus rectus;0.5150875075437538;4.0;0.9903439951719976
+S03.delineation.structure.label.nii.gz;L hippocampus;0.5916230366492147;5.0990195135927845;0.9665503199534613
+S03.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.8116274074604425;4.47213595499958;0.9704780315505597
+S03.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.45255351424237317;9.0;0.9009775830102815
+S03.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.5458816691288658;9.055385138137417;0.96844348647405
+S03.delineation.structure.label.nii.gz;L insular cortex;0.640607424071991;4.242640687119285;0.9270247469066366
+S03.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.6529850746268657;3.3166247903554;0.9986940298507463
+S03.delineation.structure.label.nii.gz;L lingual gyrus;0.4212624584717608;9.433981132056603;0.8171926910299003
+S03.delineation.structure.label.nii.gz;L middle frontal gyrus;0.7228193317247934;7.211102550927978;0.9560576149740441
+S03.delineation.structure.label.nii.gz;L middle occipital gyrus;0.5392851932895697;7.0;0.8026841721371262
+S03.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.5280379828050815;5.385164807134504;0.996535352239189
+S03.delineation.structure.label.nii.gz;L middle temporal gyrus;0.6629514133386983;8.774964387392123;0.8987425812292525
+S03.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.6204393505253104;6.082762530298219;0.7161413562559694
+S03.delineation.structure.label.nii.gz;L postcentral gyrus;0.35499095761104493;8.12403840463596;0.8833311278726126
+S03.delineation.structure.label.nii.gz;L precentral gyrus;0.4442885537238396;8.306623862918075;0.9332397989009704
+S03.delineation.structure.label.nii.gz;L precuneus;0.4750103263114416;13.45362404707371;0.9369062370921107
+S03.delineation.structure.label.nii.gz;L putamen;0.6078507578701905;4.242640687119285;0.9353543205078378
+S03.delineation.structure.label.nii.gz;L superior frontal gyrus;0.7582367790795521;6.082762530298219;0.8760761214318079
+S03.delineation.structure.label.nii.gz;L superior occipital gyrus;0.2522202486678508;15.588457268119896;0.9598579040852575
+S03.delineation.structure.label.nii.gz;L superior parietal gyrus;0.5146962769431744;12.165525060596439;0.9593826354113748
+S03.delineation.structure.label.nii.gz;L superior temporal gyrus;0.7087141299033435;4.242640687119285;0.9796532400616796
+S03.delineation.structure.label.nii.gz;L supramarginal gyrus;0.5907220462417478;9.1104335791443;0.9856419669025134
+S03.delineation.structure.label.nii.gz;R angular gyrus;0.5959471275009001;7.280109889280518;0.8248727048295016
+S03.delineation.structure.label.nii.gz;R caudate;0.5646612979630506;4.123105625617661;0.9812095373440708
+S03.delineation.structure.label.nii.gz;R cingulate gyrus;0.6186536042894023;6.0;0.847156947110611
+S03.delineation.structure.label.nii.gz;R cuneus;0.277008808197016;14.696938456699069;0.8509796872191264
+S03.delineation.structure.label.nii.gz;R fusiform gyrus;0.5512885099786863;9.0;0.9871730284828522
+S03.delineation.structure.label.nii.gz;R gyrus rectus;0.5653677657366843;6.0;0.960571823841365
+S03.delineation.structure.label.nii.gz;R hippocampus;0.6028051327961802;4.358898943540674;0.9806028051327962
+S03.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.6583457526080477;5.385164807134504;0.9714046199701938
+S03.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.22848200312989045;13.601470508735444;0.7351560342446838
+S03.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.5732708357151023;6.164414002968976;0.9949925688807592
+S03.delineation.structure.label.nii.gz;R insular cortex;0.6782807560368601;5.0;0.9841931795251228
+S03.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.5722057368941642;4.242640687119285;0.9183976261127597
+S03.delineation.structure.label.nii.gz;R lingual gyrus;0.27884322678843226;12.727922061357855;0.6800608828006088
+S03.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6521191095692397;7.0710678118654755;0.9575946805435097
+S03.delineation.structure.label.nii.gz;R middle occipital gyrus;0.3069192114418245;10.488088481701515;0.8104809763101221
+S03.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.6552652414885194;5.0;0.9864344154130378
+S03.delineation.structure.label.nii.gz;R middle temporal gyrus;0.5875744342993251;7.3484692283495345;0.9566097657800715
+S03.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.5959774170783345;7.211102550927978;0.7944601270289344
+S03.delineation.structure.label.nii.gz;R postcentral gyrus;0.5234618916437098;5.196152422706632;0.9219926538108356
+S03.delineation.structure.label.nii.gz;R precentral gyrus;0.5353469841563977;7.681145747868608;0.900583711664968
+S03.delineation.structure.label.nii.gz;R precuneus;0.4316425755584757;13.152946437965905;0.8850459921156373
+S03.delineation.structure.label.nii.gz;R putamen;0.5615725071595938;4.123105625617661;0.9560010413954699
+S03.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6917654392285199;8.06225774829855;0.9453015427769986
+S03.delineation.structure.label.nii.gz;R superior occipital gyrus;0.19498257839721253;20.0;0.8910104529616725
+S03.delineation.structure.label.nii.gz;R superior parietal gyrus;0.5634587910157622;16.401219466856727;0.921469892498302
+S03.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6054725402678052;10.295630140987;0.9705026198331069
+S03.delineation.structure.label.nii.gz;R supramarginal gyrus;0.6069270347733002;6.708203932499369;0.9795227735764357
+S04.delineation.structure.label.nii.gz;L angular gyrus;0.6778628117913832;5.0990195135927845;0.8803146258503401
+S04.delineation.structure.label.nii.gz;L caudate;0.7612317011610298;5.0;0.8443547030119468
+S04.delineation.structure.label.nii.gz;L cingulate gyrus;0.6483866500484697;4.69041575982343;0.9681484558925356
+S04.delineation.structure.label.nii.gz;L cuneus;0.36975060337892196;9.695359714832659;0.686886564762671
+S04.delineation.structure.label.nii.gz;L fusiform gyrus;0.6858164283338876;5.0;0.9112071832391088
+S04.delineation.structure.label.nii.gz;L gyrus rectus;0.5658263305322129;3.1622776601683795;0.8973471741637832
+S04.delineation.structure.label.nii.gz;L hippocampus;0.6301672451877564;4.123105625617661;0.8788261281161249
+S04.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.7033674963396779;6.0;0.8092532942898976
+S04.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.7493057768470888;4.123105625617661;0.97336914462603
+S04.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.6586677904757183;5.0990195135927845;0.944098762983713
+S04.delineation.structure.label.nii.gz;L insular cortex;0.7477469745086258;2.449489742783178;0.8682516522186937
+S04.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.5153195214473301;5.0990195135927845;0.9559381383133936
+S04.delineation.structure.label.nii.gz;L lingual gyrus;0.5970041694548823;6.4031242374328485;0.9870798373397849
+S04.delineation.structure.label.nii.gz;L middle frontal gyrus;0.7425866218609509;5.744562646538029;0.8906952454475273
+S04.delineation.structure.label.nii.gz;L middle occipital gyrus;0.5896036248171537;5.830951894845301;0.9815548182239823
+S04.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.47503358056415346;7.0710678118654755;0.9070840390118554
+S04.delineation.structure.label.nii.gz;L middle temporal gyrus;0.6604699549946853;5.0990195135927845;0.9897098401067462
+S04.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.6582176947140451;4.47213595499958;0.921793534932221
+S04.delineation.structure.label.nii.gz;L postcentral gyrus;0.5502805064638446;6.782329983125268;0.8772645630529747
+S04.delineation.structure.label.nii.gz;L precentral gyrus;0.6241555653766021;5.477225575051661;0.9921080876317949
+S04.delineation.structure.label.nii.gz;L precuneus;0.5368195166026655;6.0;0.975265416760786
+S04.delineation.structure.label.nii.gz;L putamen;0.7403061224489796;2.449489742783178;0.9209183673469388
+S04.delineation.structure.label.nii.gz;L superior frontal gyrus;0.782079322683062;4.47213595499958;0.9086730837071008
+S04.delineation.structure.label.nii.gz;L superior occipital gyrus;0.454706493189176;6.708203932499369;0.9902877038665934
+S04.delineation.structure.label.nii.gz;L superior parietal gyrus;0.6566081222390576;9.486832980505138;0.9179880065729102
+S04.delineation.structure.label.nii.gz;L superior temporal gyrus;0.7140434831757037;4.123105625617661;0.9777308866196918
+S04.delineation.structure.label.nii.gz;L supramarginal gyrus;0.681325362245415;5.477225575051661;0.8427061167967035
+S04.delineation.structure.label.nii.gz;R angular gyrus;0.5065329472420369;8.602325267042627;0.8672928879158133
+S04.delineation.structure.label.nii.gz;R caudate;0.6906474820143885;3.7416573867739413;0.8537170263788969
+S04.delineation.structure.label.nii.gz;R cingulate gyrus;0.6845478824876001;4.58257569495584;0.9765738267836703
+S04.delineation.structure.label.nii.gz;R cuneus;0.5526969741265897;7.0;0.934366320713346
+S04.delineation.structure.label.nii.gz;R fusiform gyrus;0.6138842448849614;5.744562646538029;0.9859883767215986
+S04.delineation.structure.label.nii.gz;R gyrus rectus;0.5518861406660218;7.0;0.8486942103081387
+S04.delineation.structure.label.nii.gz;R hippocampus;0.698566135008861;3.3166247903554;0.9411954245207025
+S04.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.564811222205641;9.219544457292887;0.7549320996866139
+S04.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.594654868529909;8.246211251235321;0.9884536527463041
+S04.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.5676995118063166;7.3484692283495345;0.905200757198366
+S04.delineation.structure.label.nii.gz;R insular cortex;0.6340743171191863;3.605551275463989;0.7997703223689607
+S04.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.4613159797541576;7.0;0.7672761078400991
+S04.delineation.structure.label.nii.gz;R lingual gyrus;0.45879687893279636;9.848857801796104;0.7872136924238611
+S04.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6474570278785862;7.54983443527075;0.861085403516799
+S04.delineation.structure.label.nii.gz;R middle occipital gyrus;0.37665378761269175;8.18535277187245;0.8592085235920852
+S04.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.48211833214305333;6.164414002968976;0.9451189364390485
+S04.delineation.structure.label.nii.gz;R middle temporal gyrus;0.6141290594685787;7.810249675906654;0.8914803880219316
+S04.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.6166596194503171;4.0;0.8443128964059197
+S04.delineation.structure.label.nii.gz;R postcentral gyrus;0.6017524024872809;5.0;0.8939608064820049
+S04.delineation.structure.label.nii.gz;R precentral gyrus;0.5824855376022342;6.4031242374328485;0.8164771593855975
+S04.delineation.structure.label.nii.gz;R precuneus;0.5966367458243381;7.0;0.9565958413816612
+S04.delineation.structure.label.nii.gz;R putamen;0.6413642774714707;3.0;0.9416591870752661
+S04.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6894164971852984;6.708203932499369;0.8412867849478072
+S04.delineation.structure.label.nii.gz;R superior occipital gyrus;0.32934847579199045;10.0;0.9512253436939629
+S04.delineation.structure.label.nii.gz;R superior parietal gyrus;0.7565639332639089;6.48074069840786;0.9796822723949217
+S04.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6245313130924683;6.6332495807108;0.9616013228988405
+S04.delineation.structure.label.nii.gz;R supramarginal gyrus;0.6430178891558912;7.0;0.8727924629057482
+S05.delineation.structure.label.nii.gz;L angular gyrus;0.6403869254599481;7.0710678118654755;0.7854207498261364
+S05.delineation.structure.label.nii.gz;L caudate;0.5636282261673877;5.0990195135927845;0.9753841563479039
+S05.delineation.structure.label.nii.gz;L cingulate gyrus;0.5552906797908336;6.0;0.8540449092586897
+S05.delineation.structure.label.nii.gz;L cuneus;0.08275458732363476;13.19090595827292;0.8067841216463192
+S05.delineation.structure.label.nii.gz;L fusiform gyrus;0.6608517644964621;6.0;0.8344087935561391
+S05.delineation.structure.label.nii.gz;L gyrus rectus;0.42913608130999437;5.0;0.9446640316205533
+S05.delineation.structure.label.nii.gz;L hippocampus;0.5377506042940424;5.744562646538029;0.9896203611545571
+S05.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.6525005809300044;5.744562646538029;0.9500916578451369
+S05.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.5619056244905353;6.708203932499369;0.9682999728285482
+S05.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.6302604977575349;5.916079783099616;0.9897985267120581
+S05.delineation.structure.label.nii.gz;L insular cortex;0.5411492925209356;5.0;0.9519203003176436
+S05.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.4003083742892936;7.0710678118654755;0.9655969933506794
+S05.delineation.structure.label.nii.gz;L lingual gyrus;0.588104810758353;5.385164807134504;0.9093765885669394
+S05.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6541640178003815;6.4031242374328485;0.9236420145511055
+S05.delineation.structure.label.nii.gz;L middle occipital gyrus;0.4465583535216589;9.899494936611665;0.6114728957837886
+S05.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.48540124370743265;7.0;0.9198697068403909
+S05.delineation.structure.label.nii.gz;L middle temporal gyrus;0.6304143528406664;9.0;0.9541221700128151
+S05.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.6550611413043478;3.605551275463989;0.8585258152173914
+S05.delineation.structure.label.nii.gz;L postcentral gyrus;0.5068030732909479;7.211102550927978;0.9514362043614223
+S05.delineation.structure.label.nii.gz;L precentral gyrus;0.6346219453073098;6.164414002968976;0.859928536799957
+S05.delineation.structure.label.nii.gz;L precuneus;0.28821842133220016;9.643650760992955;0.963879740784022
+S05.delineation.structure.label.nii.gz;L putamen;0.5250692869740489;3.7416573867739413;0.9095490047871
+S05.delineation.structure.label.nii.gz;L superior frontal gyrus;0.7402446449327503;5.385164807134504;0.856146565561521
+S05.delineation.structure.label.nii.gz;L superior occipital gyrus;0.2412246271167433;12.68857754044952;0.9090501289671414
+S05.delineation.structure.label.nii.gz;L superior parietal gyrus;0.5764549050460018;7.3484692283495345;0.940055508206036
+S05.delineation.structure.label.nii.gz;L superior temporal gyrus;0.6492846581561466;6.557438524302;0.8700306128824007
+S05.delineation.structure.label.nii.gz;L supramarginal gyrus;0.603224389937896;9.9498743710662;0.9252869957970015
+S05.delineation.structure.label.nii.gz;R angular gyrus;0.4410301618286002;14.422205101855956;0.9901139726717461
+S05.delineation.structure.label.nii.gz;R caudate;0.5069300621315915;7.280109889280518;0.9899633582921777
+S05.delineation.structure.label.nii.gz;R cingulate gyrus;0.6068365546390907;5.0;0.9496491444047765
+S05.delineation.structure.label.nii.gz;R cuneus;0.4556701030927835;6.4031242374328485;0.9017182130584193
+S05.delineation.structure.label.nii.gz;R fusiform gyrus;0.5726721857130664;6.164414002968976;0.9129470000853461
+S05.delineation.structure.label.nii.gz;R gyrus rectus;0.6263580538497875;5.0;0.9839395370807746
+S05.delineation.structure.label.nii.gz;R hippocampus;0.6539019437191761;4.123105625617661;0.9532927183057731
+S05.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.618870099923136;10.816653826391969;0.8016141429669486
+S05.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.3782732189408972;13.92838827718412;0.9307809034667912
+S05.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.619412780656304;6.164414002968976;0.987818077144502
+S05.delineation.structure.label.nii.gz;R insular cortex;0.4369515011547344;5.385164807134504;0.8735950731331794
+S05.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.5574028014137976;7.0;0.9723785835842388
+S05.delineation.structure.label.nii.gz;R lingual gyrus;0.3579713661732589;11.090536506409418;0.7589420043678718
+S05.delineation.structure.label.nii.gz;R middle frontal gyrus;0.5933204981247983;7.3484692283495345;0.921553134424697
+S05.delineation.structure.label.nii.gz;R middle occipital gyrus;0.31402751615441477;10.677078252031311;0.6999213142898019
+S05.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.5806105477761683;10.0;0.9697945168732228
+S05.delineation.structure.label.nii.gz;R middle temporal gyrus;0.5405687350282049;6.708203932499369;0.9845066069082761
+S05.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.6060809112991038;3.7416573867739413;0.8553480190970768
+S05.delineation.structure.label.nii.gz;R postcentral gyrus;0.5848273954924644;5.477225575051661;0.9178688297921371
+S05.delineation.structure.label.nii.gz;R precentral gyrus;0.6838942702347726;5.0990195135927845;0.9740600886553932
+S05.delineation.structure.label.nii.gz;R precuneus;0.396631298472665;7.615773105863909;0.8011609649331494
+S05.delineation.structure.label.nii.gz;R putamen;0.5508408796895213;3.1622776601683795;0.9500646830530401
+S05.delineation.structure.label.nii.gz;R superior frontal gyrus;0.656413497664946;6.708203932499369;0.9052459707152639
+S05.delineation.structure.label.nii.gz;R superior occipital gyrus;0.4142795138888889;10.63014581273465;0.8633897569444444
+S05.delineation.structure.label.nii.gz;R superior parietal gyrus;0.6207122122736007;7.615773105863909;0.9413712743775298
+S05.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6104502634520198;6.48074069840786;0.9981239022832509
+S05.delineation.structure.label.nii.gz;R supramarginal gyrus;0.47997902386035884;10.488088481701515;0.8930591452223097
+S06.delineation.structure.label.nii.gz;L angular gyrus;0.4976107732406603;10.295630140987;0.674576455256299
+S06.delineation.structure.label.nii.gz;L caudate;0.6354111170307228;5.744562646538029;0.7803232107973717
+S06.delineation.structure.label.nii.gz;L cingulate gyrus;0.5572393785547963;7.483314773547883;0.8623124785280758
+S06.delineation.structure.label.nii.gz;L cuneus;0.13520370094015818;13.96424004376894;0.7821220713326369
+S06.delineation.structure.label.nii.gz;L fusiform gyrus;0.4475547237366751;6.4031242374328485;0.9343315159899097
+S06.delineation.structure.label.nii.gz;L gyrus rectus;0.5432607416127133;5.744562646538029;0.9846968805179518
+S06.delineation.structure.label.nii.gz;L hippocampus;0.5148608644168147;5.0;0.8414446417998815
+S06.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.6229942021314986;6.708203932499369;0.9782760362787788
+S06.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.13745383537801928;11.575836902790225;0.9076707560385449
+S06.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.4883807054902324;6.4031242374328485;0.9858809369502823
+S06.delineation.structure.label.nii.gz;L insular cortex;0.567369004713058;4.47213595499958;0.9139173828666481
+S06.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.5274046884124468;7.0710678118654755;0.895470092600317
+S06.delineation.structure.label.nii.gz;L lingual gyrus;0.3741380709012736;9.848857801796104;0.7981666261052973
+S06.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6587652212652213;7.810249675906654;0.7281704781704782
+S06.delineation.structure.label.nii.gz;L middle occipital gyrus;0.4009242368965098;12.041594578792296;0.6691475130730877
+S06.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.5228989387130701;12.041594578792296;0.7425184052012621
+S06.delineation.structure.label.nii.gz;L middle temporal gyrus;0.5058096808151429;9.273618495495704;0.8872822611079111
+S06.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.4288219818766443;6.708203932499369;0.9823151125401929
+S06.delineation.structure.label.nii.gz;L postcentral gyrus;0.4575915602709345;9.0;0.9883514156126996
+S06.delineation.structure.label.nii.gz;L precentral gyrus;0.5242219964909041;7.280109889280518;0.8845138055222089
+S06.delineation.structure.label.nii.gz;L precuneus;0.4894786221686101;11.874342087037917;0.8107045525622124
+S06.delineation.structure.label.nii.gz;L putamen;0.6631884057971015;3.0;0.8371014492753623
+S06.delineation.structure.label.nii.gz;L superior frontal gyrus;0.6935344529684152;7.0;0.9354136429608128
+S06.delineation.structure.label.nii.gz;L superior occipital gyrus;0.37947332883187035;18.681541692269406;0.7297771775827144
+S06.delineation.structure.label.nii.gz;L superior parietal gyrus;0.5685661125764174;11.224972160321824;0.8795109284589748
+S06.delineation.structure.label.nii.gz;L superior temporal gyrus;0.6224954262714966;8.0;0.7941456275155507
+S06.delineation.structure.label.nii.gz;L supramarginal gyrus;0.5645493042952208;7.211102550927978;0.9635813672111313
+S06.delineation.structure.label.nii.gz;R angular gyrus;0.23925995609909062;14.177446878757825;0.7184518209918022
+S06.delineation.structure.label.nii.gz;R caudate;0.551565200691377;5.0990195135927845;0.806606491261763
+S06.delineation.structure.label.nii.gz;R cingulate gyrus;0.5399457048671709;6.4031242374328485;0.7591623036649214
+S06.delineation.structure.label.nii.gz;R cuneus;0.3243367581659255;13.379088160259652;0.9802177580125747
+S06.delineation.structure.label.nii.gz;R fusiform gyrus;0.38662985274431055;9.539392014169456;0.9343206157965194
+S06.delineation.structure.label.nii.gz;R gyrus rectus;0.588011417697431;4.47213595499958;0.8674731548185401
+S06.delineation.structure.label.nii.gz;R hippocampus;0.40134988550078343;6.0;0.7920935277811257
+S06.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.7144114175340702;5.0;0.8952891941195407
+S06.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.12276753303325105;17.11724276862369;0.9975315812400174
+S06.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.5409188877744819;7.3484692283495345;0.9379654723544099
+S06.delineation.structure.label.nii.gz;R insular cortex;0.569546788392566;4.47213595499958;0.9541571568307793
+S06.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.4642746992906343;10.198039027185569;0.7636475789040814
+S06.delineation.structure.label.nii.gz;R lingual gyrus;0.15566821082073246;13.96424004376894;0.6834192815313347
+S06.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6444845138145414;8.774964387392123;0.7776713435134577
+S06.delineation.structure.label.nii.gz;R middle occipital gyrus;0.1816261879619852;19.82422760159901;0.5960929250263991
+S06.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.44689042895320924;9.0;0.8697739729129863
+S06.delineation.structure.label.nii.gz;R middle temporal gyrus;0.45602036551540714;9.433981132056603;0.9986321668756412
+S06.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.30700762927380615;8.602325267042627;0.9653857021757559
+S06.delineation.structure.label.nii.gz;R postcentral gyrus;0.24017242743019854;10.04987562112089;0.9285375306493712
+S06.delineation.structure.label.nii.gz;R precentral gyrus;0.3303727096286062;13.0;0.9758544688970032
+S06.delineation.structure.label.nii.gz;R precuneus;0.3710784973744446;15.329709716755891;0.7557111440240564
+S06.delineation.structure.label.nii.gz;R putamen;0.6693050867186591;3.3166247903554;0.8548480968455361
+S06.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6327219270989943;10.954451150103322;0.861331061441315
+S06.delineation.structure.label.nii.gz;R superior occipital gyrus;0.26581456887513105;17.72004514666935;0.7945479055369714
+S06.delineation.structure.label.nii.gz;R superior parietal gyrus;0.4283571181290149;13.19090595827292;0.8856791168211717
+S06.delineation.structure.label.nii.gz;R superior temporal gyrus;0.5440207740629713;7.483314773547883;0.9548813319840376
+S06.delineation.structure.label.nii.gz;R supramarginal gyrus;0.4114952103290296;9.055385138137417;0.8810722804891901
+S07.delineation.structure.label.nii.gz;L angular gyrus;0.5332084966937797;9.797958971132712;0.7269588624261221
+S07.delineation.structure.label.nii.gz;L caudate;0.586644407345576;9.055385138137417;0.8534223706176962
+S07.delineation.structure.label.nii.gz;L cingulate gyrus;0.5806655900699788;8.774964387392123;0.9437319907539343
+S07.delineation.structure.label.nii.gz;L cuneus;0.27810734463276837;12.409673645990857;0.8473163841807909
+S07.delineation.structure.label.nii.gz;L fusiform gyrus;0.6647965261499443;8.0;0.9935057449179572
+S07.delineation.structure.label.nii.gz;L gyrus rectus;0.6167741935483871;5.0;0.959426523297491
+S07.delineation.structure.label.nii.gz;L hippocampus;0.6421761076836792;3.1622776601683795;0.9963544587773415
+S07.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.7316575357181222;5.0;0.9079385540874423
+S07.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.413022351797862;8.660254037844387;0.8455890292624987
+S07.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.6837388528019377;6.4031242374328485;0.9378839590443686
+S07.delineation.structure.label.nii.gz;L insular cortex;0.6820443238353686;3.1622776601683795;0.9939695462083522
+S07.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.582874672922494;5.0;0.9685103311377786
+S07.delineation.structure.label.nii.gz;L lingual gyrus;0.5866080790932241;6.0;0.9825735257402507
+S07.delineation.structure.label.nii.gz;L middle frontal gyrus;0.7057302406455855;6.708203932499369;0.8744830968489807
+S07.delineation.structure.label.nii.gz;L middle occipital gyrus;0.4260874555262252;8.246211251235321;0.7893951566624584
+S07.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.6578728592806075;5.830951894845301;0.8608324558000333
+S07.delineation.structure.label.nii.gz;L middle temporal gyrus;0.6425069616033259;10.63014581273465;0.8760246303486685
+S07.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.5305468812555049;5.0;0.9236928497077428
+S07.delineation.structure.label.nii.gz;L postcentral gyrus;0.6094596748485814;5.0990195135927845;0.9912336627350973
+S07.delineation.structure.label.nii.gz;L precentral gyrus;0.6759848529907413;4.69041575982343;0.9495033604948552
+S07.delineation.structure.label.nii.gz;L precuneus;0.33687943262411346;13.038404810405298;0.9749623898560069
+S07.delineation.structure.label.nii.gz;L putamen;0.6972714341135394;2.449489742783178;0.9336609336609336
+S07.delineation.structure.label.nii.gz;L superior frontal gyrus;0.7529100011559974;5.744562646538029;0.9628213450474403
+S07.delineation.structure.label.nii.gz;L superior occipital gyrus;0.12065866110591789;18.027756377319946;0.8342561300064716
+S07.delineation.structure.label.nii.gz;L superior parietal gyrus;0.5469933184855233;12.36931687685298;0.9580400890868597
+S07.delineation.structure.label.nii.gz;L superior temporal gyrus;0.7319887834339949;4.123105625617661;0.9753379350014381
+S07.delineation.structure.label.nii.gz;L supramarginal gyrus;0.6898024559530166;6.708203932499369;0.9146823278163374
+S07.delineation.structure.label.nii.gz;R angular gyrus;0.5265270695454052;9.899494936611665;0.8700227839861127
+S07.delineation.structure.label.nii.gz;R caudate;0.7521459227467812;4.0;0.8887696709585121
+S07.delineation.structure.label.nii.gz;R cingulate gyrus;0.5857165809768637;6.4031242374328485;0.9718830334190232
+S07.delineation.structure.label.nii.gz;R cuneus;0.4298577345578966;9.433981132056603;0.8489104988294616
+S07.delineation.structure.label.nii.gz;R fusiform gyrus;0.6114237715245695;10.44030650891055;0.9301133977320454
+S07.delineation.structure.label.nii.gz;R gyrus rectus;0.573305954825462;10.04987562112089;0.8594113620807666
+S07.delineation.structure.label.nii.gz;R hippocampus;0.5991703794745736;3.0;0.9903210938700261
+S07.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.6923711340206186;5.0990195135927845;0.9248453608247422
+S07.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.46216466234967624;11.180339887498949;0.7289546716003701
+S07.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.629443561208267;6.6332495807108;0.93172231054584
+S07.delineation.structure.label.nii.gz;R insular cortex;0.717536231884058;3.0;0.9397101449275362
+S07.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.3895767008607475;6.0;0.8758401131941989
+S07.delineation.structure.label.nii.gz;R lingual gyrus;0.392061168049455;11.575836902790225;0.8480017352638143
+S07.delineation.structure.label.nii.gz;R middle frontal gyrus;0.7056718995774605;7.0710678118654755;0.8513298173107567
+S07.delineation.structure.label.nii.gz;R middle occipital gyrus;0.33906391379452167;12.0;0.8048586548216391
+S07.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.60361520484571;6.324555320336759;0.9158200982496304
+S07.delineation.structure.label.nii.gz;R middle temporal gyrus;0.5894583192409705;10.0;0.9357210246186162
+S07.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.5237915692632531;5.385164807134504;0.9694593167936053
+S07.delineation.structure.label.nii.gz;R postcentral gyrus;0.5317908332752572;6.4031242374328485;0.9091458173624178
+S07.delineation.structure.label.nii.gz;R precentral gyrus;0.603617106314948;6.48074069840786;0.988042899014122
+S07.delineation.structure.label.nii.gz;R precuneus;0.4773022049286641;11.575836902790225;0.9099654128837008
+S07.delineation.structure.label.nii.gz;R putamen;0.7262160454832597;25.25866188063018;0.9278584965255843
+S07.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6777519979376128;6.0;0.9494530991050713
+S07.delineation.structure.label.nii.gz;R superior occipital gyrus;0.24251376393178461;17.0;0.9315160467302269
+S07.delineation.structure.label.nii.gz;R superior parietal gyrus;0.6423071424194767;9.0;0.9405445150221605
+S07.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6618747035428905;6.4031242374328485;0.912358156675302
+S07.delineation.structure.label.nii.gz;R supramarginal gyrus;0.6231520591341078;7.0710678118654755;0.9751847940865892
+S08.delineation.structure.label.nii.gz;L angular gyrus;0.6217274196444604;9.433981132056603;0.892296642126055
+S08.delineation.structure.label.nii.gz;L caudate;0.4083691942424692;7.0710678118654755;0.9808576940198842
+S08.delineation.structure.label.nii.gz;L cingulate gyrus;0.4989299194521188;7.280109889280518;0.840266158216273
+S08.delineation.structure.label.nii.gz;L cuneus;0.3012012457363191;8.0;0.7897078451727717
+S08.delineation.structure.label.nii.gz;L fusiform gyrus;0.5075514874141877;6.557438524302;0.998932112890923
+S08.delineation.structure.label.nii.gz;L gyrus rectus;0.5921098978513561;5.0990195135927845;0.8214159915463191
+S08.delineation.structure.label.nii.gz;L hippocampus;0.24370539921906556;7.810249675906654;0.9567793187020331
+S08.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.5850127280441239;7.211102550927978;0.9217225286380992
+S08.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.11031359892094995;12.206555615733702;0.9699889204682306
+S08.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.48449752140603874;7.810249675906654;0.9597566471383506
+S08.delineation.structure.label.nii.gz;L insular cortex;0.5515156096454759;5.196152422706632;0.9967495653488548
+S08.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.33295380611581005;7.280109889280518;0.8729668184775536
+S08.delineation.structure.label.nii.gz;L lingual gyrus;0.41250058567211734;9.486832980505138;0.9219884739727311
+S08.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6650154936303964;6.48074069840786;0.871375101347224
+S08.delineation.structure.label.nii.gz;L middle occipital gyrus;0.3426936046017398;11.0;0.7795755291717434
+S08.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.42619576404311793;9.0;0.8413412057851688
+S08.delineation.structure.label.nii.gz;L middle temporal gyrus;0.304536068740425;10.0;0.9918515064721686
+S08.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.4162062615101289;5.0990195135927845;0.9902025782688766
+S08.delineation.structure.label.nii.gz;L postcentral gyrus;0.5291390339808674;7.280109889280518;0.9905119627521177
+S08.delineation.structure.label.nii.gz;L precentral gyrus;0.5763285305955784;6.48074069840786;0.931225573120224
+S08.delineation.structure.label.nii.gz;L precuneus;0.3882229232386961;7.483314773547883;0.9540483701366982
+S08.delineation.structure.label.nii.gz;L putamen;0.407617211040135;7.0;0.8701940460407376
+S08.delineation.structure.label.nii.gz;L superior frontal gyrus;0.7075166080668988;5.916079783099616;0.935373238767418
+S08.delineation.structure.label.nii.gz;L superior occipital gyrus;0.42426242492244737;10.198039027185569;0.9299716190350472
+S08.delineation.structure.label.nii.gz;L superior parietal gyrus;0.6416088362460488;6.4031242374328485;0.7814555099371434
+S08.delineation.structure.label.nii.gz;L superior temporal gyrus;0.4141251383199705;8.602325267042627;0.9466327580516782
+S08.delineation.structure.label.nii.gz;L supramarginal gyrus;0.5815161601393598;9.0;0.9341462655924347
+S08.delineation.structure.label.nii.gz;R angular gyrus;0.5027196122086633;15.165750888103101;0.9039821886537215
+S08.delineation.structure.label.nii.gz;R caudate;0.39560084101568815;8.12403840463596;0.994986252628174
+S08.delineation.structure.label.nii.gz;R cingulate gyrus;0.5932357562226082;5.0990195135927845;0.941701810965021
+S08.delineation.structure.label.nii.gz;R cuneus;0.5475109386609428;7.874007874011811;0.944604969867085
+S08.delineation.structure.label.nii.gz;R fusiform gyrus;0.44990892531876137;9.38083151964686;0.9666818457802064
+S08.delineation.structure.label.nii.gz;R gyrus rectus;0.6340306834030683;8.0;0.8379358437935844
+S08.delineation.structure.label.nii.gz;R hippocampus;0.4091321831625373;6.324555320336759;0.8525100531845895
+S08.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.6404610312806704;5.385164807134504;0.9501975488839117
+S08.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.27592011630576174;10.770329614269007;0.9486571275537532
+S08.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.4175484785580477;15.811388300841896;0.8872968457293302
+S08.delineation.structure.label.nii.gz;R insular cortex;0.5333433916716959;5.0990195135927845;0.896197948098974
+S08.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.4039246162813289;7.0;0.7215853895473091
+S08.delineation.structure.label.nii.gz;R lingual gyrus;0.30089170759620426;12.041594578792296;0.745696437938105
+S08.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6734620962148757;6.708203932499369;0.8701792732393182
+S08.delineation.structure.label.nii.gz;R middle occipital gyrus;0.5024671696733938;9.16515138991168;0.7663629480719526
+S08.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.5022750945671838;9.0;0.9473164848418398
+S08.delineation.structure.label.nii.gz;R middle temporal gyrus;0.4680250075323893;7.615773105863909;0.9898689364266345
+S08.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.5121651866291242;5.656854249492381;0.9866435636416143
+S08.delineation.structure.label.nii.gz;R postcentral gyrus;0.5414486125159418;6.4031242374328485;0.9674567922951757
+S08.delineation.structure.label.nii.gz;R precentral gyrus;0.5647721027827275;7.0710678118654755;0.9880264450698596
+S08.delineation.structure.label.nii.gz;R precuneus;0.5186281514749413;6.4031242374328485;0.8593446973563336
+S08.delineation.structure.label.nii.gz;R putamen;0.45413817495873615;4.47213595499958;0.8658335298278708
+S08.delineation.structure.label.nii.gz;R superior frontal gyrus;0.699872921155865;8.48528137423857;0.9496104757168904
+S08.delineation.structure.label.nii.gz;R superior occipital gyrus;0.5937518810570036;7.3484692283495345;0.9579245169445615
+S08.delineation.structure.label.nii.gz;R superior parietal gyrus;0.5846682363839889;7.483314773547883;0.8887559346894661
+S08.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6095999676904748;7.280109889280518;0.990125401344884
+S08.delineation.structure.label.nii.gz;R supramarginal gyrus;0.47229242898638196;15.0;0.8852087970123355
+S09.delineation.structure.label.nii.gz;L angular gyrus;0.6064440767059281;9.486832980505138;0.8061909860800156
+S09.delineation.structure.label.nii.gz;L caudate;0.7078597726908916;2.23606797749979;0.9005922842964623
+S09.delineation.structure.label.nii.gz;L cingulate gyrus;0.6064026044492675;7.280109889280518;0.9219026948815338
+S09.delineation.structure.label.nii.gz;L cuneus;0.22577224853325795;11.090536506409418;0.8462571569944157
+S09.delineation.structure.label.nii.gz;L fusiform gyrus;0.6198385885885885;5.0990195135927845;0.771021021021021
+S09.delineation.structure.label.nii.gz;L gyrus rectus;0.5007436787307883;6.0;0.8940670963477111
+S09.delineation.structure.label.nii.gz;L hippocampus;0.5501519756838906;4.0;0.8999493414387032
+S09.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.6786252794675818;10.770329614269007;0.9428586283991057
+S09.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.4043796337212157;11.40175425099138;0.9501644817597094
+S09.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.5661721068249258;6.324555320336759;0.9009418139594891
+S09.delineation.structure.label.nii.gz;L insular cortex;0.6446064139941691;4.0;0.9610787172011662
+S09.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.5462341536167039;4.358898943540674;0.9994407158836689
+S09.delineation.structure.label.nii.gz;L lingual gyrus;0.5733122601038609;5.0990195135927845;0.888597877624746
+S09.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6937294387399063;10.04987562112089;0.7821353803210049
+S09.delineation.structure.label.nii.gz;L middle occipital gyrus;0.5229100529100529;11.180339887498949;0.7278306878306878
+S09.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.6030643260343651;7.0;0.9634638049748775
+S09.delineation.structure.label.nii.gz;L middle temporal gyrus;0.568512083399147;7.615773105863909;0.8820091612699416
+S09.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.453781512605042;4.358898943540674;0.9737757171834251
+S09.delineation.structure.label.nii.gz;L postcentral gyrus;0.5607202313151669;5.830951894845301;0.8909138701480768
+S09.delineation.structure.label.nii.gz;L precentral gyrus;0.5751174759454016;6.0;0.9283508614902662
+S09.delineation.structure.label.nii.gz;L precuneus;0.3465491923641703;12.24744871391589;0.9868929134714745
+S09.delineation.structure.label.nii.gz;L putamen;0.712300566134843;3.0;0.9289758106021616
+S09.delineation.structure.label.nii.gz;L superior frontal gyrus;0.783471015524854;5.744562646538029;0.9638584247258225
+S09.delineation.structure.label.nii.gz;L superior occipital gyrus;0.5136384416112155;8.94427190999916;0.8234875806369686
+S09.delineation.structure.label.nii.gz;L superior parietal gyrus;0.6486918482375704;10.04987562112089;0.9046857912004711
+S09.delineation.structure.label.nii.gz;L superior temporal gyrus;0.66059541955276;5.916079783099616;0.9530957572015667
+S09.delineation.structure.label.nii.gz;L supramarginal gyrus;0.5749495690445626;8.246211251235321;0.7432972675591418
+S09.delineation.structure.label.nii.gz;R angular gyrus;0.5095662057207805;18.027756377319946;0.8680215408762482
+S09.delineation.structure.label.nii.gz;R caudate;0.6697199224942751;3.0;0.9054077858023604
+S09.delineation.structure.label.nii.gz;R cingulate gyrus;0.6223680385398065;5.744562646538029;0.936999044810831
+S09.delineation.structure.label.nii.gz;R cuneus;0.43971291866028706;8.06225774829855;0.980542264752791
+S09.delineation.structure.label.nii.gz;R fusiform gyrus;0.5947640430399052;6.164414002968976;0.9208675760399898
+S09.delineation.structure.label.nii.gz;R gyrus rectus;0.3719107896323086;7.810249675906654;0.7444243520192888
+S09.delineation.structure.label.nii.gz;R hippocampus;0.5814911952041963;4.123105625617661;0.8207818159110778
+S09.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.7121110703258264;5.477225575051661;0.9007406127869064
+S09.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.3592927724983909;11.74734012447073;0.9596032256843221
+S09.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.6063293993835976;9.273618495495704;0.8986444160465058
+S09.delineation.structure.label.nii.gz;R insular cortex;0.6339913466738778;3.605551275463989;0.9891833423472147
+S09.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.5639749262536873;7.681145747868608;0.6847345132743363
+S09.delineation.structure.label.nii.gz;R lingual gyrus;0.39576708544023353;9.0;0.8152009591826096
+S09.delineation.structure.label.nii.gz;R middle frontal gyrus;0.644498991324396;7.874007874011811;0.8229202897830602
+S09.delineation.structure.label.nii.gz;R middle occipital gyrus;0.27683537902818;17.11724276862369;0.6747115340412817
+S09.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.527728182654331;6.0;0.9610993886273873
+S09.delineation.structure.label.nii.gz;R middle temporal gyrus;0.5132157239518388;10.246950765959598;0.9254481898648786
+S09.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.45246492083739775;7.280109889280518;0.9745629173857583
+S09.delineation.structure.label.nii.gz;R postcentral gyrus;0.5976505826742172;4.58257569495584;0.9011559882061122
+S09.delineation.structure.label.nii.gz;R precentral gyrus;0.538891693526465;7.0710678118654755;0.8480059026833909
+S09.delineation.structure.label.nii.gz;R precuneus;0.4705090363005541;10.770329614269007;0.8719382735228627
+S09.delineation.structure.label.nii.gz;R putamen;0.69910964751799;3.0;0.8957189901207464
+S09.delineation.structure.label.nii.gz;R superior frontal gyrus;0.7031925119217597;6.324555320336759;0.9623449704638988
+S09.delineation.structure.label.nii.gz;R superior occipital gyrus;0.2813994462622703;10.816653826391969;0.8011074754593506
+S09.delineation.structure.label.nii.gz;R superior parietal gyrus;0.6798406246226909;7.3484692283495345;0.9266712279148388
+S09.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6358539360711699;7.3484692283495345;0.9653460225509465
+S09.delineation.structure.label.nii.gz;R supramarginal gyrus;0.6379906976744186;8.602325267042627;0.9003906976744186
+S10.delineation.structure.label.nii.gz;L angular gyrus;0.5082368196151239;9.539392014169456;0.7322075855362037
+S10.delineation.structure.label.nii.gz;L caudate;0.48879270366362654;5.916079783099616;0.9383212243005101
+S10.delineation.structure.label.nii.gz;L cingulate gyrus;0.4351424243543799;6.782329983125268;0.8988805556581816
+S10.delineation.structure.label.nii.gz;L cuneus;0.0410426267281106;12.84523257866513;0.8247407834101382
+S10.delineation.structure.label.nii.gz;L fusiform gyrus;0.6887097402344511;3.7416573867739413;0.9799431397748958
+S10.delineation.structure.label.nii.gz;L gyrus rectus;0.5134004647560031;5.0;0.9632842757552285
+S10.delineation.structure.label.nii.gz;L hippocampus;0.5752808988764045;7.3484692283495345;0.8871410736579276
+S10.delineation.structure.label.nii.gz;L inferior frontal gyrus;0.684106830122592;6.708203932499369;0.8901926444833625
+S10.delineation.structure.label.nii.gz;L inferior occipital gyrus;0.44650771817209234;9.055385138137417;0.8169799786030872
+S10.delineation.structure.label.nii.gz;L inferior temporal gyrus;0.5991874589625739;6.782329983125268;0.8739740643466842
+S10.delineation.structure.label.nii.gz;L insular cortex;0.6266222735611877;5.0990195135927845;0.8959706461914793
+S10.delineation.structure.label.nii.gz;L lateral orbitofrontal gyrus;0.5462885738115096;5.0990195135927845;0.8952460383653045
+S10.delineation.structure.label.nii.gz;L lingual gyrus;0.557896137300989;7.0;0.8726772805889397
+S10.delineation.structure.label.nii.gz;L middle frontal gyrus;0.6925519495680598;5.0990195135927845;0.9159000700443615
+S10.delineation.structure.label.nii.gz;L middle occipital gyrus;0.5152109232649861;8.306623862918075;0.6345457480914269
+S10.delineation.structure.label.nii.gz;L middle orbitofrontal gyrus;0.6176206710927687;7.0;0.9290029307972965
+S10.delineation.structure.label.nii.gz;L middle temporal gyrus;0.5140142336532407;8.602325267042627;0.8523401576005037
+S10.delineation.structure.label.nii.gz;L parahippocampal gyrus;0.6707308116048476;3.1622776601683795;0.9872934263679765
+S10.delineation.structure.label.nii.gz;L postcentral gyrus;0.5215213026103899;7.3484692283495345;0.9933795900514921
+S10.delineation.structure.label.nii.gz;L precentral gyrus;0.5688489319194714;7.280109889280518;0.9200092208390964
+S10.delineation.structure.label.nii.gz;L precuneus;0.28191745976053684;21.18962010041709;0.7958422876189641
+S10.delineation.structure.label.nii.gz;L putamen;0.4831376467649263;5.744562646538029;0.9018236322757931
+S10.delineation.structure.label.nii.gz;L superior frontal gyrus;0.6883859659912057;7.874007874011811;0.8323544786445681
+S10.delineation.structure.label.nii.gz;L superior occipital gyrus;0.21659524737047137;17.69180601295413;0.9474094273470978
+S10.delineation.structure.label.nii.gz;L superior parietal gyrus;0.42573604365293516;12.206555615733702;0.8597869321020967
+S10.delineation.structure.label.nii.gz;L superior temporal gyrus;0.48368599989851324;9.539392014169456;0.9177787926455913
+S10.delineation.structure.label.nii.gz;L supramarginal gyrus;0.4944494608806501;13.038404810405298;0.9099697243320762
+S10.delineation.structure.label.nii.gz;R angular gyrus;0.34425600943813595;10.04987562112089;0.9460551541070639
+S10.delineation.structure.label.nii.gz;R caudate;0.6388246946186861;4.242640687119285;0.9742489270386266
+S10.delineation.structure.label.nii.gz;R cingulate gyrus;0.5134628661603708;7.0;0.8415031068152677
+S10.delineation.structure.label.nii.gz;R cuneus;0.4866779608809487;5.916079783099616;0.9844447866933621
+S10.delineation.structure.label.nii.gz;R fusiform gyrus;0.6185053641389916;6.0;0.9327377247263008
+S10.delineation.structure.label.nii.gz;R gyrus rectus;0.7023151956751674;4.47213595499958;0.9791984957104243
+S10.delineation.structure.label.nii.gz;R hippocampus;0.6288981288981289;5.0;0.853950103950104
+S10.delineation.structure.label.nii.gz;R inferior frontal gyrus;0.7045585433925486;5.0990195135927845;0.9240242767908563
+S10.delineation.structure.label.nii.gz;R inferior occipital gyrus;0.46805349182763745;12.041594578792296;0.9791976225854383
+S10.delineation.structure.label.nii.gz;R inferior temporal gyrus;0.5445093709081671;9.219544457292887;0.8589966581328539
+S10.delineation.structure.label.nii.gz;R insular cortex;0.5471370734528629;5.0;0.9421631000578369
+S10.delineation.structure.label.nii.gz;R lateral orbitofrontal gyrus;0.5755297334244702;9.695359714832659;0.8462064251537935
+S10.delineation.structure.label.nii.gz;R lingual gyrus;0.36493768945772986;12.68857754044952;0.6583866621758168
+S10.delineation.structure.label.nii.gz;R middle frontal gyrus;0.6814365154972639;6.708203932499369;0.9172962314730708
+S10.delineation.structure.label.nii.gz;R middle occipital gyrus;0.2590192902370785;11.045361017187261;0.7204142737937467
+S10.delineation.structure.label.nii.gz;R middle orbitofrontal gyrus;0.6262902886033285;10.0;0.9887297240362334
+S10.delineation.structure.label.nii.gz;R middle temporal gyrus;0.5410113370523664;7.615773105863909;0.945942055065683
+S10.delineation.structure.label.nii.gz;R parahippocampal gyrus;0.6273253833049404;4.358898943540674;0.9312436115843271
+S10.delineation.structure.label.nii.gz;R postcentral gyrus;0.48554803014404274;7.0;0.8958885815129257
+S10.delineation.structure.label.nii.gz;R precentral gyrus;0.5025307179740622;7.3484692283495345;0.9889057414066361
+S10.delineation.structure.label.nii.gz;R precuneus;0.34183142559833507;10.816653826391969;0.8760665972944849
+S10.delineation.structure.label.nii.gz;R putamen;0.61925;3.3166247903554;0.918
+S10.delineation.structure.label.nii.gz;R superior frontal gyrus;0.6140982271242509;9.899494936611665;0.857114360044218
+S10.delineation.structure.label.nii.gz;R superior occipital gyrus;0.2374954139660022;13.601470508735444;0.9730952672129143
+S10.delineation.structure.label.nii.gz;R superior parietal gyrus;0.45789553254214227;9.055385138137417;0.870247184216494
+S10.delineation.structure.label.nii.gz;R superior temporal gyrus;0.6659565323017698;5.744562646538029;0.9345741996972585
+S10.delineation.structure.label.nii.gz;R supramarginal gyrus;0.5069446416905729;7.615773105863909;0.8393785326781606
