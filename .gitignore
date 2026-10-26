@@ -1,0 +1,6 @@
+/Data/
+/Model/
+/Log/
+/Dataset/
+/temp_eval_elastix/
+*.ckpt
